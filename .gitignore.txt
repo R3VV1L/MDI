@@ -1,2 +1,1 @@
-/bugs/
-/XMLfile1.xml
+Test_ignore/
