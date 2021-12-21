@@ -1,0 +1,2 @@
+/bugs/
+/XMLfile1.xml
