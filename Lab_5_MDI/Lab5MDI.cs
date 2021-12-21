@@ -21,7 +21,7 @@ namespace Lab_5_MDI
             saveToolStripMenuItem.Enabled = false;
         }
         //Комментарий 1
-
+        //Комментарий 2
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
 
