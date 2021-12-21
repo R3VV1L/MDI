@@ -22,6 +22,7 @@ namespace Lab_5_MDI
         }
         //Комментарий 1
         //Комментарий 2
+        //комментарий 3
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
 
