@@ -1,0 +1,11 @@
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\bin\Debug\Lab_5_MDI.exe.config
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\bin\Debug\Lab_5_MDI.exe
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\bin\Debug\Lab_5_MDI.pdb
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.csproj.AssemblyReference.cache
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.Form1.resources
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.Properties.Resources.resources
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.csproj.GenerateResource.cache
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.csproj.CoreCompileInputs.cache
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.exe
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.pdb
+F:\VSProject\Lab_5_MDI\Lab_5_MDI\obj\Debug\Lab_5_MDI.blank.resources
