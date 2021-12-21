@@ -20,7 +20,7 @@ namespace Lab_5_MDI
             InitializeComponent();
             saveToolStripMenuItem.Enabled = false;
         }
-
+        //Комментарий 1
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
